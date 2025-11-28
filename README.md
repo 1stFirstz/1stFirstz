@@ -24,7 +24,7 @@ const first = {
     "Full Stack Developer",
     "Test Engineer @ Fabrinet",
   ],
-  education: "Electrical Engineering (Telecommunications)",
+  education: "Electrical Engineering (Power Electronics)",
   location: "Thailand 🇹🇭",
   interests: [
     "Cloud Infrastructure",
