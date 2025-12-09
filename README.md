@@ -36,15 +36,16 @@ const first = {
     "Kubernetes Advanced Patterns",
     "GitOps",
     "Infrastructure as Code",
-  ],
-  funFact: "From testing hardware to deploying software to the cloud! ⚡→☁️",
+    "Golang",
+    "TypeScript"
+  ]
 };
 ```
 
 ## 💼 Professional Journey
 
 ```
-🎓 Electrical Engineering → 🔧 Hardware Test Engineer → 💻 Bootcamp Graduate →
+🎓 Electrical Engineering → 🔧 Hardware Test Engineer → 💻 Generation Thailand Cohort 8 →
 🖥️ Full Stack Developer → ⚙️ Backend Developer → 🚀 DevOps Engineer
 ```
 
